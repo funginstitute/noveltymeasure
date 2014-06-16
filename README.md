@@ -9,3 +9,8 @@ This will create 2 files: `after.csv` and `before.csv`, which give the number of
 with each document 5 years before/after the focal document.
 
 `plot.py` will create some helpful graphs from the above output files.
+
+
+---
+
+`sample.7z` is a 7zipped file containing the matrix and application dates for 20000 patents to use as a sample.
